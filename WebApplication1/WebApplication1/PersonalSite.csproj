@@ -67,26 +67,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="startbootstrap-resume-master\dist\assets\img\favicon.ico" />
-    <Content Include="startbootstrap-resume-master\dist\assets\img\profile.jpg" />
-    <Content Include="startbootstrap-resume-master\dist\css\styles.css" />
-    <Content Include="startbootstrap-resume-master\dist\index.html" />
-    <Content Include="startbootstrap-resume-master\dist\js\scripts.js" />
-    <Content Include="startbootstrap-resume-master\scripts\build-assets.js" />
-    <Content Include="startbootstrap-resume-master\scripts\build-pug.js" />
-    <Content Include="startbootstrap-resume-master\scripts\build-scripts.js" />
-    <Content Include="startbootstrap-resume-master\scripts\build-scss.js" />
-    <Content Include="startbootstrap-resume-master\scripts\clean.js" />
-    <Content Include="startbootstrap-resume-master\scripts\render-assets.js" />
-    <Content Include="startbootstrap-resume-master\scripts\render-pug.js" />
-    <Content Include="startbootstrap-resume-master\scripts\render-scripts.js" />
-    <Content Include="startbootstrap-resume-master\scripts\render-scss.js" />
-    <Content Include="startbootstrap-resume-master\scripts\sb-watch.js" />
-    <Content Include="startbootstrap-resume-master\scripts\start-debug.js" />
-    <Content Include="startbootstrap-resume-master\scripts\start.js" />
-    <Content Include="startbootstrap-resume-master\src\assets\img\favicon.ico" />
-    <Content Include="startbootstrap-resume-master\src\assets\img\profile.jpg" />
-    <Content Include="startbootstrap-resume-master\src\js\scripts.js" />
+    <Content Include="assets\img\favicon.ico" />
+    <Content Include="assets\img\profile.jpg" />
+    <Content Include="css\styles.css" />
+    <Content Include="contact.html" />
+    <Content Include="links.html" />
+    <Content Include="portfolio.html" />
+    <Content Include="resume.html" />
+    <Content Include="index.html" />
+    <Content Include="js\scripts.js" />
+    <Content Include="scripts\build-assets.js" />
+    <Content Include="scripts\build-pug.js" />
+    <Content Include="scripts\build-scripts.js" />
+    <Content Include="scripts\build-scss.js" />
+    <Content Include="scripts\clean.js" />
+    <Content Include="scripts\render-assets.js" />
+    <Content Include="scripts\render-pug.js" />
+    <Content Include="scripts\render-scripts.js" />
+    <Content Include="scripts\render-scss.js" />
+    <Content Include="scripts\sb-watch.js" />
+    <Content Include="scripts\start-debug.js" />
+    <Content Include="scripts\start.js" />
+    <Content Include="src\assets\img\favicon.ico" />
+    <Content Include="src\assets\img\profile.jpg" />
+    <Content Include="src\js\scripts.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -94,22 +98,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="startbootstrap-resume-master\.editorconfig" />
-    <Content Include="startbootstrap-resume-master\.gitignore" />
-    <Content Include="startbootstrap-resume-master\LICENSE" />
-    <Content Include="startbootstrap-resume-master\package-lock.json" />
-    <Content Include="startbootstrap-resume-master\package.json" />
-    <Content Include="startbootstrap-resume-master\README.md" />
-    <Content Include="startbootstrap-resume-master\src\pug\index.pug" />
-    <Content Include="startbootstrap-resume-master\src\scss\components\_icons.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\components\_sidenav.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\sections\_resume-section.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\styles.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\variables\_colors.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\variables\_spacing.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\variables\_typography.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\_global.scss" />
-    <Content Include="startbootstrap-resume-master\src\scss\_variables.scss" />
+    <Content Include="src\pug\index.pug" />
+    <Content Include="src\scss\_global.scss" />
+    <Content Include="src\scss\_variables.scss" />
+    <Content Include="src\scss\components\_icons.scss" />
+    <Content Include="src\scss\components\_sidenav.scss" />
+    <Content Include="src\scss\sections\_resume-section.scss" />
+    <Content Include="src\scss\styles.scss" />
+    <Content Include="src\scss\variables\_colors.scss" />
+    <Content Include="src\scss\variables\_spacing.scss" />
+    <Content Include="src\scss\variables\_typography.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
