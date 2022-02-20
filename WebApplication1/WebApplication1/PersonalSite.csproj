@@ -67,30 +67,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\img\favicon.ico" />
-    <Content Include="assets\img\profile.jpg" />
+    <Content Include="assets\favicon.ico" />
+    <Content Include="assets\img\avataaars.svg" />
+    <Content Include="assets\img\portfolio\cabin.png" />
+    <Content Include="assets\img\portfolio\cake.png" />
+    <Content Include="assets\img\portfolio\circus.png" />
+    <Content Include="assets\img\portfolio\game.png" />
+    <Content Include="assets\img\portfolio\safe.png" />
+    <Content Include="assets\img\portfolio\submarine.png" />
     <Content Include="css\styles.css" />
-    <Content Include="contact.html" />
-    <Content Include="links.html" />
-    <Content Include="portfolio.html" />
-    <Content Include="resume.html" />
+    <Content Include="Contact.html" />
+    <Content Include="Links.html" />
+    <Content Include="Portfolio.html" />
+    <Content Include="Resume.html" />
     <Content Include="index.html" />
     <Content Include="js\scripts.js" />
-    <Content Include="scripts\build-assets.js" />
-    <Content Include="scripts\build-pug.js" />
-    <Content Include="scripts\build-scripts.js" />
-    <Content Include="scripts\build-scss.js" />
-    <Content Include="scripts\clean.js" />
-    <Content Include="scripts\render-assets.js" />
-    <Content Include="scripts\render-pug.js" />
-    <Content Include="scripts\render-scripts.js" />
-    <Content Include="scripts\render-scss.js" />
-    <Content Include="scripts\sb-watch.js" />
-    <Content Include="scripts\start-debug.js" />
-    <Content Include="scripts\start.js" />
-    <Content Include="src\assets\img\favicon.ico" />
-    <Content Include="src\assets\img\profile.jpg" />
-    <Content Include="src\js\scripts.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -98,16 +89,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="src\pug\index.pug" />
-    <Content Include="src\scss\_global.scss" />
-    <Content Include="src\scss\_variables.scss" />
-    <Content Include="src\scss\components\_icons.scss" />
-    <Content Include="src\scss\components\_sidenav.scss" />
-    <Content Include="src\scss\sections\_resume-section.scss" />
-    <Content Include="src\scss\styles.scss" />
-    <Content Include="src\scss\variables\_colors.scss" />
-    <Content Include="src\scss\variables\_spacing.scss" />
-    <Content Include="src\scss\variables\_typography.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
