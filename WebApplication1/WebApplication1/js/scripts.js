@@ -51,4 +51,7 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
+    $(".text-white2").hide().fadeIn(2000);
+    //$(".container").hide().fadeIn(2000);
+
 });
