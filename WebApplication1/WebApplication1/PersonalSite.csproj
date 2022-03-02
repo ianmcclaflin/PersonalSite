@@ -79,6 +79,12 @@
     <Content Include="css\styles.css" />
     <Content Include="Contact.html" />
     <Content Include="Links.html" />
+    <Content Include="OtherTemplatePages\assets\favicon.ico" />
+    <Content Include="OtherTemplatePages\css\styles.css" />
+    <Content Include="OtherTemplatePages\index.html" />
+    <Content Include="OtherTemplatePages\js\scripts.js" />
+    <Content Include="OtherTemplatePages\OriginalLinks.html" />
+    <Content Include="OtherTemplatePages\OriginalPortfolio.html" />
     <Content Include="Portfolio.html" />
     <Content Include="Resume.html" />
     <Content Include="index.html" />
@@ -89,6 +95,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\portfolio\Ian McClaflin Resume IT.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
