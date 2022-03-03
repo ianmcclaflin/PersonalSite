@@ -75,6 +75,7 @@
     <Content Include="assets\img\portfolio\circus.png" />
     <Content Include="assets\img\portfolio\game.png" />
     <Content Include="assets\img\portfolio\safe.png" />
+    <Content Include="assets\img\portfolio\SeanMcKinney.jpg" />
     <Content Include="assets\img\portfolio\submarine.png" />
     <Content Include="css\styles.css" />
     <Content Include="Contact.html" />
@@ -83,6 +84,7 @@
     <Content Include="OtherTemplatePages\css\styles.css" />
     <Content Include="OtherTemplatePages\index.html" />
     <Content Include="OtherTemplatePages\js\scripts.js" />
+    <Content Include="OtherTemplatePages\OGindex.html" />
     <Content Include="OtherTemplatePages\OriginalLinks.html" />
     <Content Include="OtherTemplatePages\OriginalPortfolio.html" />
     <Content Include="Portfolio.html" />
